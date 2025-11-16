@@ -1,0 +1,8 @@
+# robots.txt para bemax4d.com
+
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /private/
+
+Sitemap: https://bemax4d.com/sitemap.xml
